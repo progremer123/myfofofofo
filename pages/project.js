@@ -145,12 +145,9 @@ export default function project() {
                   수업내용을 기반하여 팀원들과 함께
                   동아리홍보사이트를만들었습니다.
                 </p>
-                <Link
-                  legacyBehavior
-                  href="https://github.com/progremer123/eqmeqwe"
-                >
+                <Link legacyBehavior href="https://fi-lime.vercel.app/">
                   <a className="text-pink-500 inline-flex items-center">
-                    GitHub
+                    vercel
                     <svg
                       className="w-4 h-4 ml-2"
                       viewBox="0 0 24 24"

@@ -22,7 +22,7 @@ export default function Hero() {
           <Link legacyBehavior href="https://open.kakao.com/o/sBvu4QRe">
             <a className="btn-aboutme">개인문의</a>
           </Link>
-          <Link legacyBehavior href="https://open.kakao.com/o/sBvu4QRe">
+          <Link legacyBehavior href="https://fi-lime.vercel.app/">
             <a className="btn-aboutme">Team Project</a>
           </Link>
         </div>
